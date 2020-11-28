@@ -1,5 +1,5 @@
 # The-Rosa
-A attempt to recreate the UI/UX of a website from Dribble using basic HTML, CSS and JS
+A attempt to recreate the UI/UX of a website from Dribble using basic HTML, CSS and JS and making it responsive
 
 # Created a Responsive website
 <h3> For Monitor View </h3>
